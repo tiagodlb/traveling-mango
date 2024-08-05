@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="katman_1" data-name="katman 1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 841.89 595.28">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Adsız_degrade_2);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        stroke-width: 0px;
+      }
+
+      .cls-1, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: url(#Adsız_degrade_4);
+      }
+
+      .cls-3 {
+        fill: url(#Adsız_degrade_9);
+      }
+
+      .cls-4 {
+        fill: url(#Adsız_degrade_3);
+      }
+
+      .cls-5 {
+        fill: url(#Adsız_degrade_9-3);
+      }
+
+      .cls-6 {
+        fill: url(#Adsız_degrade_9-2);
+      }
+
+      .cls-7 {
+        fill: url(#Adsız_degrade_5);
+      }
+
+      .cls-8 {
+        fill: url(#Adsız_degrade_7);
+      }
+
+      .cls-9 {
+        fill: url(#Adsız_degrade_6);
+      }
+    </style>
+    <linearGradient id="Adsız_degrade_2" data-name="Adsız degrade 2" x1="138.71" y1="380.88" x2="653.34" y2="72.49" gradientTransform="translate(24.94 588.36) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e54033"/>
+      <stop offset=".49" stop-color="#feca1a"/>
+      <stop offset="1" stop-color="#afd803"/>
+    </linearGradient>
+    <linearGradient id="Adsız_degrade_9" data-name="Adsız degrade 9" x1="79610.62" y1="-80981.16" x2="47393.2" y2="-47841" gradientTransform="translate(24.94 588.36) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".15" stop-color="#6cbf00"/>
+      <stop offset="1" stop-color="#afd803"/>
+    </linearGradient>
+    <linearGradient id="Adsız_degrade_3" data-name="Adsız degrade 3" x1="223.1" y1="101.06" x2="545.57" y2="179.47" gradientTransform="translate(24.94 588.36) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".21" stop-color="#e54033"/>
+      <stop offset=".84" stop-color="#feca1a"/>
+    </linearGradient>
+    <linearGradient id="Adsız_degrade_4" data-name="Adsız degrade 4" x1="477.16" y1="122.82" x2="576.66" y2="122.07" gradientTransform="translate(24.94 588.36) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#feca1a"/>
+      <stop offset=".4" stop-color="#feca1a"/>
+      <stop offset="1" stop-color="#afd803"/>
+    </linearGradient>
+    <linearGradient id="Adsız_degrade_5" data-name="Adsız degrade 5" x1="251.95" y1="99.05" x2="455.95" y2="375.23" gradientTransform="translate(24.94 588.36) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".16" stop-color="#e54033"/>
+      <stop offset=".84" stop-color="#feca1a"/>
+    </linearGradient>
+    <linearGradient id="Adsız_degrade_6" data-name="Adsız degrade 6" x1="222.23" y1="373.48" x2="213.19" y2="195.09" gradientTransform="translate(24.94 588.36) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#feca1a"/>
+      <stop offset=".76" stop-color="#e54033"/>
+    </linearGradient>
+    <linearGradient id="Adsız_degrade_7" data-name="Adsız degrade 7" x1="322.02" y1="419.8" x2="267.54" y2="212.92" gradientTransform="translate(24.94 588.36) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".16" stop-color="#feca1a"/>
+      <stop offset="1" stop-color="#e54033"/>
+    </linearGradient>
+    <linearGradient id="Adsız_degrade_9-2" data-name="Adsız degrade 9" x1="343.13" y1="518.86" x2="544.86" y2="444.5" xlink:href="#Adsız_degrade_9"/>
+    <linearGradient id="Adsız_degrade_9-3" data-name="Adsız degrade 9" x1="79607.61" y1="-80983.39" x2="47390.18" y2="-47843.23" xlink:href="#Adsız_degrade_9"/>
+  </defs>
+  <path class="cls-1" d="M394.55,175.07s0,0,0-.01c20.04,10.28,41.97,13.8,62.95,13.74,12.19,11.2,22.34,24.35,31.87,37.86,3.95,5.64,7.52,11.54,10.67,17.67,7.29,14.03,12.65,28.88,18.07,43.91,1.59,4.41,3.19,8.83,4.84,13.25.52,1.89,1.06,3.78,1.62,5.68h.03c8.38,28.72,20.61,59.41,37,84.75h-.02c5.42,8.33,11.49,16.21,18.16,23.58,1.31,1.42,2.65,2.82,4,4.23h0s0,0,0,0h0c6.28,6.58,12.6,13.2,16.18,21.49,4.46,10.33,4.12,22.2,1.44,33.13-12.66,51.51-62.26,65.04-109.67,66.29l.02-.06c-17.77.35-35.43-.97-51.08-2.57,0,0-75.49-7.81-139.47-54.59l-2.07-1.54h0c-7.47-5.57-14.59-11.58-21.34-18.01-17.93-17.12-33.89-36.53-46.1-57.85.08-.08.16-.16.24-.25-1.44-2.6-2.83-5.22-4.15-7.88-11.81-23.63-19-49.35-19.33-76.69-.56-45.87,15.14-92.85,44.97-126.91-.01-.03-.02-.06-.03-.08,16.15-17.69,36.34-31.59,60.24-39.5,14.98-5.01,30.71-7.41,46.5-7.11,9.61,11.28,21.31,20.61,34.44,27.46ZM357.77,475.21c10.8-3.94,21.03-9.24,30.57-15.78-9.6,6.49-19.85,11.79-30.57,15.78Z"/>
+  <path class="cls-3" d="M551.23,137.71s.02,0,.02,0l.65-.42c-84.16-143.57-194.21-30.54-194.21-30.54l.16.28s-.01,0-.02,0c63.28,110.95,183.55,37,193.4,30.67Z"/>
+  <path class="cls-4" d="M446.9,384.98c-23.19,55.44-67.72,92.15-121.67,97.71-1.16.15-15.92,1.32-24.07.72,63.99,46.78,139.47,54.59,139.47,54.59,16.16,1.66,34.46,3.01,52.82,2.53,6.47-16.88,10.1-36.21,9.06-58.13-2.42-50.93,27.11-77.07,59.08-90.49-16.39-25.34-28.62-56.03-37-84.76-24.97,6.64-56.68,27.53-77.7,77.82Z"/>
+  <path class="cls-2" d="M501.5,482.04c1.05,21.93-3.35,41.71-9.81,58.59,47.4-1.25,97.01-14.78,109.67-66.29,2.68-10.93,3.03-22.81-1.44-33.13-4.35-10.06-12.74-17.67-20.18-25.72-6.96-7.69-13.28-15.95-18.88-24.68-31.95,13.42-61.78,40.31-59.36,91.23Z"/>
+  <path class="cls-7" d="M522.95,301.49c-7.28-19.49-13.48-39.01-22.91-57.16-3.15-6.12-6.72-12.03-10.67-17.67-9.53-13.51-19.67-26.66-31.87-37.86-20.98.06-42.91-3.46-62.95-13.74-20.3,28.79-43.52,77.63-22.26,133.38,31.39,82.33-32.31,138.6-73.2,173.43l2.07,1.54c7.67.6,15.37.49,23.01-.33,53.94-5.57,101.05-43.16,124.24-98.59,21.02-50.29,51.6-69.4,76.54-76.05-.7-2.32-1.37-4.64-2-6.95Z"/>
+  <path class="cls-9" d="M255.59,191.85c-31.25,34.24-47.73,82.38-47.16,129.36.33,27.34,7.52,53.06,19.33,76.69,1.77,3.54,3.65,7.04,5.63,10.49,65.7-65.95,41.97-164.22,22.2-216.54Z"/>
+  <path class="cls-8" d="M373.39,308.44c-21.26-55.77,1.45-104.29,21.72-133.08-13.37-6.88-25.26-16.31-35.01-27.76-15.79-.3-31.52,2.1-46.5,7.11-23.9,7.91-44.09,21.81-60.24,39.5,19.33,51.17,42.55,147.3-21.7,211.8,12.2,21.31,28.16,40.73,46.1,57.85,7.07,6.74,14.57,13.03,22.44,18.82,40.88-34.82,104.59-91.92,73.2-174.25Z"/>
+  <path class="cls-6" d="M452.67,115.9c44.49,17.55,75.65,22.31,98.24,21.63l.65-.42c-84.16-143.57-194.21-30.54-194.21-30.54l.16.28c23.74-4.21,58.24-5.52,95.16,9.04Z"/>
+  <path class="cls-5" d="M453.22,114.91c-36.9-14.54-71.6-13.99-95.74-8.05,63.29,110.95,183.56,37,193.4,30.67-22.61.68-53.17-5.07-97.66-22.62Z"/>
+</svg>

@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700;900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  transition: all 0.5s ease-in-out;
+  background: #fafafa;
+  color: #0f172a;
+  opacity: 0;
+  transform: translateX(0%);
+  animation: smooth-appear 1s ease forwards;
+}
+
+@keyframes smooth-appear {
+  to {
+    bottom: 20px;
+    opacity: 1;
+  }
+}
+
+.load {
+  opacity: 0;
+  transform: translateX(0%);
+  animation: smooth-appear 1s ease forwards;
+}

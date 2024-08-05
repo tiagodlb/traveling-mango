@@ -1,6 +1,6 @@
 import { Component } from 'react'
 import Header from '@/components/Header'
-import withRouter, { WithRouterProps } from '@/utils/withRouter'
+import withRouter from '@/utils/withRouter'
 import { useLocation, useNavigate } from 'react-router-dom'
 import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet'
 import 'leaflet/dist/leaflet.css'
@@ -157,4 +157,5 @@ class DestinyId extends Component<Props, State> {
   }
 }
 
+// @ts-ignore
 export default withRouter(DestinyId)

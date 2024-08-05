@@ -1,7 +1,6 @@
 import React from 'react'
 import { useLocation, useNavigate, useParams } from 'react-router-dom'
 
-// Export this interface so that it can be used in other files
 export interface WithRouterProps {
   location: ReturnType<typeof useLocation>
   navigate: ReturnType<typeof useNavigate>
@@ -14,8 +13,7 @@ function withRouter<P extends WithRouterProps>(Component: React.ComponentType<P>
     const navigate = useNavigate()
     const params = useParams()
 
-    return <Component {...(props as P)} location={location} navigate={navigate} params={params} />
+    return <Component {...(props as P)} router={{ location, navigate, params }} />
   }
 }
-
 export default withRouter

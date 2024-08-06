@@ -13,7 +13,8 @@ function withRouter<P extends WithRouterProps>(Component: React.ComponentType<P>
     const navigate = useNavigate()
     const params = useParams()
 
-    return <Component {...(props as P)} router={{ location, navigate, params }} />
+    return <Component {...(props as P)} location={location} navigate={navigate} params={params} />
   }
 }
+
 export default withRouter

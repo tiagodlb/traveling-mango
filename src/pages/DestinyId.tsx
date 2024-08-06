@@ -17,7 +17,7 @@ const DefaultIcon = L.icon({
 L.Marker.prototype.options.icon = DefaultIcon
 
 interface RouteParams {
-  id?: string | undefined
+  id: string
 }
 
 interface Props {
